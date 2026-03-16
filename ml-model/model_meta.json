@@ -1,0 +1,25 @@
+{
+  "r2_score": 0.9945,
+  "mae": 9.14,
+  "n_samples": 5000,
+  "n_estimators": 200,
+  "max_depth": 15,
+  "features": [
+    "Age",
+    "Gender",
+    "Height",
+    "Weight",
+    "Duration",
+    "Heart_Rate",
+    "Body_Temp"
+  ],
+  "feature_importances": {
+    "Age": 0.0006,
+    "Gender": 0.0001,
+    "Height": 0.0006,
+    "Weight": 0.0007,
+    "Duration": 0.685,
+    "Heart_Rate": 0.3092,
+    "Body_Temp": 0.0038
+  }
+}
